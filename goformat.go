@@ -41,5 +41,5 @@ func Int16ToString(n int16) string {
         i--
         buf[i] = '-'
     }
-    return string(buf[i:])
+    return cx.B2s(buf[i:])
 }
