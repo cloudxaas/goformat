@@ -1,4 +1,4 @@
-package goformat
+package cxformat
 
 import (
   "github.com/cloudxaas/gocx"
